@@ -1,7 +1,7 @@
 {
-  "name": "archive-view",
-  "version": "0.65.1",
-  "description": "View the files and folders inside archive files",
+  "name": "view-archive",
+  "version": "0.65.2",
+  "description": "View the files and folders inside archive files, support docx,pptx,xslx",
   "main": "./lib/archive-editor",
   "dependencies": {
     "etch": "0.9.0",
@@ -24,7 +24,7 @@
       "atom"
     ]
   },
-  "repository": "https://github.com/atom/archive-view",
+  "repository": "https://github.com/lalalic/archive-view",
   "license": "MIT",
   "engines": {
     "atom": "*"
